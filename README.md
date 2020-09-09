@@ -1,14 +1,15 @@
 # An 18 DOF Hexapod project using Arduino Uno + PCA9685
 
 # Hardware
-|* Body: 3D printed, go to [STL](STL) folder |
+* Body: 3D printed, go to [STL](STL) folder 
+
+  <img src="STL/images/hexapod_exploded_view_all.png" width=50% height=50%>
+  
+* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) 
+
 
   
-* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) |
-
- | <img src="STL/images/hexapod_exploded_view_all.png" width=50% height=50%>|
-  
-  <img src="/images/arduinouno.jpg" width=50% height=50%>|
+  <img src="/images/arduinouno.jpg" width=50% height=50%>
   
 * [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815) 
 
