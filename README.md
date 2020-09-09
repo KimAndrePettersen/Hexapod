@@ -17,7 +17,7 @@
 
   <img src="/images/sg90.jpg" width=25% height=25%>
   
-* DC/DC Buck Voltage regulator (Mini 360 from Taobao/[Amazon](http://www.amazon.com/4-75-23V-1-17V-DC-DC-Converter-Module/dp/B00NJCAI7G)) 
+* DC/DC Buck Voltage regulator (http://www.amazon.com/4-75-23V-1-17V-DC-DC-Converter-Module/dp/B00NJCAI7G)) 
 
   <img src="/images/mini360.jpg" width=12.5% height=12.5%>
   
