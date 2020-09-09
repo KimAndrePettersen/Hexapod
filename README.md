@@ -3,11 +3,11 @@
 # Hardware
 * Body: 3D printed, go to [STL](STL) folder 
 <img src="STL/images/hexapod_exploded_view_all.png" width=50% height=50%>
-* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) ![image](/images/arduinouno.jpg)
-* [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815) ![image](images/pca9685.jpg)
-* SG-90 mini servo x 18 ![image](/images/sg90.jpg)
-* DC/DC Buck Voltage regulator (Mini 360 from Taobao/[Amazon](http://www.amazon.com/4-75-23V-1-17V-DC-DC-Converter-Module/dp/B00NJCAI7G)) ![image](/images/mini360.jpg)
-* 7.4V battery ![image](/images/battery.jpg)
+* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) <img src="/images/arduinouno.jpg" width=50% height=50%>
+* [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815) <img src="/images/pca9685.jpg" width=50% height=50%>
+* SG-90 mini servo x 18 ![image]<img src="/images/sg90.jpg" width=50% height=50%>
+* DC/DC Buck Voltage regulator (Mini 360 from Taobao/[Amazon](http://www.amazon.com/4-75-23V-1-17V-DC-DC-Converter-Module/dp/B00NJCAI7G)) <img src="/images/mini360.jpg" width=50% height=50%>
+* 7.4V battery <img src="/images/battery.jpg" width=50% height=50%>
 # Electronics
 ![Wiring2](https://github.com/KimAndrePettersen/Hexapod/blob/master/pictures/Wiring2.jpg)
 
