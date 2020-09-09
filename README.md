@@ -13,7 +13,7 @@
 
   <img src="/images/pca9685.jpg" width=25% height=25%>
   
-* SG-90 mini servo x 18 ![image]
+* SG-90 mini servo x 18
 
   <img src="/images/sg90.jpg" width=25% height=25%>
   
