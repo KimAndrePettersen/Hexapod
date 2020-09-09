@@ -36,6 +36,6 @@
 
 # Libraries
 
-|table|test|
+|* Body: 3D printed, go to [STL](STL) folder |<img src="STL/images/hexapod_exploded_view_all.png" width=50% height=50%>|
 |---|---|
-|ex1|ex2|
+|* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) |<img src="/images/arduinouno.jpg" width=25% height=25%>|
