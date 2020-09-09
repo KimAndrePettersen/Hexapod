@@ -5,9 +5,7 @@
 
   <img src="STL/images/hexapod_exploded_view_all.png" width=50% height=50%>
   
-* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) 
-
-  <img src="/images/arduinouno.jpg" width=25% height=25%>
+* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)  <img src="/images/arduinouno.jpg" width=25% height=25%>
   
 * [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815) 
 
