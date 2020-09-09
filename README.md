@@ -33,6 +33,15 @@
 # Software
 
 # Libraries
+|* Body: 3D printed, go to [STL](STL) folder 
+<img src="STL/images/hexapod_exploded_view_all.png" >|* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
+img src="/images/arduinouno.jpg">|
+|---|---|
+|* [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815)  
+<img src="/images/pca9685.jpg" >|
+* SG-90 mini servo x 18 ![image] 
+|<img src="/images/sg90.jpg" >
+
 
 |* Body: 3D printed, go to [STL](STL) folder |<img src="STL/images/hexapod_exploded_view_all.png" >|
 |---|---|
