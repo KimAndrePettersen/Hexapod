@@ -27,19 +27,4 @@
 # Software
 
 # Libraries
-|* Body: 3D printed, go to [STL](STL) folder |<img src="STL/images/hexapod_exploded_view_all.png" >|
-|---|---|
-|* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) |<img src="/images2/arduinouno.jpg">|
-|* [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815)  |<img src="/images2/pca9685.jpg" >|
-|* SG-90 mini servo x 18 ![image] |<img src="/images2/sg90.jpg" >|
-|* DC/DC Buck Voltage regulator (Mini 360 from Taobao/[Amazon](http://www.amazon.com/4-75-23V-1-17V-DC-DC-Converter-Module/dp/B00NJCAI7G))  |<img src="/images2/mini360.jpg">|
-|* 7.4V battery  |<img src="/images2/battery.jpg" > |
 
-
-|* Body: 3D printed, go to [STL](STL) folder |<img src="STL/images/hexapod_exploded_view_all.png" >|
-|---|---|
-|* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) |<img src="/images/arduinouno.jpg">|
-|* [Adafruit 16-channel PWM driver (PCA9685)](https://www.adafruit.com/product/815)  | <img src="/images/pca9685.jpg" >|
-|* SG-90 mini servo x 18 ![image] |  <img src="/images/sg90.jpg" >|
-|* DC/DC Buck Voltage regulator (Mini 360 from Taobao/[Amazon](http://www.amazon.com/4-75-23V-1-17V-DC-DC-Converter-Module/dp/B00NJCAI7G))  |  <img src="/images/mini360.jpg"> |
-|* 7.4V battery  | <img src="/images/battery.jpg" > |
