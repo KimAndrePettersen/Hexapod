@@ -15,6 +15,9 @@
   
 * DC/DC Buck Voltage regulator    
 <img src="/images/mini360.jpg" width=12.5% height=12.5%>
+
+* HC-06 bluetooth module  
+<img src="/images/HC-06.jpg" width=12.5% height=12.5%>
   
 * 7.4V battery    
 <img src="/images/battery.jpg" width=20% height=20%>
