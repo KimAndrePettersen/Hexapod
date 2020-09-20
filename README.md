@@ -1,6 +1,5 @@
 # An 18 DOF Hexapod project using Arduino Uno + PCA9685
-
-https://youtu.be/EXnIlYpywrs
+[![Hexapod](https://img.youtube.com/vi/EXnIlYpywrs/0.jpg)](https://www.youtube.com/watch?v=EXnIlYpywrs)
 
 # Hardware
 * Body: 3D printed, go to [STL](STL) folder    
